@@ -1,0 +1,6 @@
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\bin\Debug\Entidades.dll
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\obj\Debug\Entidades.dll
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Entidades\obj\Debug\Entidades.pdb

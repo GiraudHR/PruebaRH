@@ -1,0 +1,9 @@
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\bin\Debug\Datos.dll
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\bin\Debug\Datos.pdb
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\obj\Debug\Datos.dll
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\obj\Debug\Datos.pdb
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\bin\Debug\Entidades.dll
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\bin\Debug\Entidades.pdb
+C:\Users\gerar\source\repos\Bolsa_De_Trabajo_Inst_RH_ASF\Datos\obj\Debug\Datos.csproj.CopyComplete
